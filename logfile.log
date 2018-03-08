@@ -1,0 +1,7 @@
+2017-12-04 11:17:53,566 INFO  [Log4j] New driver instantiated 
+2017-12-04 11:17:53,874 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-12-04 11:18:02,765 INFO  [Log4j] Web application launched 
+2017-12-04 11:18:02,954 INFO  [Log4j] Username is entered 
+2017-12-04 11:18:03,031 INFO  [Log4j] Password entered in the Password text box 
+2017-12-04 11:18:04,857 INFO  [Log4j] Click action performed on Submit button 
+2017-12-04 11:18:07,607 INFO  [Log4j] Browser closed 
